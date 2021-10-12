@@ -1,6 +1,8 @@
-# tqiu592.github.io
+## side projects of tqiu592
+what financial alchemist thinking about on saturday night
 
-### Credits 
+
+### credits
 
 "Starnight" is a one page website template made by [Peter Finlan](http://peterfinlan.com/).
 
