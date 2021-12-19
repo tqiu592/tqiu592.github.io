@@ -1,7 +1,7 @@
 # side projects of tqiu592
 ## what financial alchemist thinking about on saturday night
 <li>I-Ching Divination</li>
-<li>Touch-Fish 2048</li>
+<li>Slack-off 2048</li>
 <li>Roadtrip Ledger</li>
 
 ## credits
